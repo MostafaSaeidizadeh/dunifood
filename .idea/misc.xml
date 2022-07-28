@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/DuniFood/app/src/main/res/drawable/ic_add.xml" value="0.21302083333333333" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/drawable/shape_backgrond_top.xml" value="0.21302083333333333" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/drawable/shape_circle.xml" value="0.21302083333333333" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/font/font.xml" value="0.22708333333333333" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/layout/dialog_add_new_item.xml" value="0.196875" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/layout/dialog_delete_item.xml" value="0.196875" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/layout/dialog_upadate_item.xml" value="0.5" />
+        <entry key="..\:/Android/DuniFood/app/src/main/res/layout/itemfood.xml" value="0.408955223880597" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
